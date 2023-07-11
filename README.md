@@ -27,3 +27,7 @@ ADMIN PRODUCT
 
 ![183755583-3e939e01-3d42-41ae-b712-9f4d27493f23](https://github.com/Sanket689/OnlineShoppingSystem/assets/123076146/27df6cc1-4b27-45b2-abea-6ec6cf34364e)
 
+ADMIN ORDER
+
+![183755693-94ef427f-9d7d-421d-9a4c-1e203d6a13af](https://github.com/Sanket689/OnlineShoppingSystem/assets/123076146/3c45efb2-9f9d-4a22-a9af-7dd0008b03fe)
+
