@@ -35,3 +35,6 @@ USER CART
 
 ![183755886-f6240a70-68a6-491b-b24d-c73fccbb6140](https://github.com/Sanket689/OnlineShoppingSystem/assets/123076146/f81ecfe8-a7aa-4d6d-a068-ba8d432f61fc)
 
+![183755957-2b205591-4e5d-4fe3-8865-06b3bf5ad01f](https://github.com/Sanket689/OnlineShoppingSystem/assets/123076146/600a944d-dd9e-4653-a2d1-3160277be252)
+
+
