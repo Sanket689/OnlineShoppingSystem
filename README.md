@@ -31,3 +31,7 @@ ADMIN ORDER
 
 ![183755693-94ef427f-9d7d-421d-9a4c-1e203d6a13af](https://github.com/Sanket689/OnlineShoppingSystem/assets/123076146/3c45efb2-9f9d-4a22-a9af-7dd0008b03fe)
 
+USER CART
+
+![183755886-f6240a70-68a6-491b-b24d-c73fccbb6140](https://github.com/Sanket689/OnlineShoppingSystem/assets/123076146/f81ecfe8-a7aa-4d6d-a068-ba8d432f61fc)
+
