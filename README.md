@@ -16,3 +16,7 @@ HOME
 
 ![183755163-cce09fb7-067d-44ad-a1fc-5b15e6b098e2](https://github.com/Sanket689/OnlineShoppingSystem/assets/123076146/fb63df53-2b71-43fd-89de-c055d84b0d02)
 
+ADMIN HOME
+
+![183755404-a19daab7-1cdf-4aaa-aac3-bc6fb2dfbf69](https://github.com/Sanket689/OnlineShoppingSystem/assets/123076146/8c6b40c5-07f4-455c-9288-717759282a68)
+
