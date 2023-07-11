@@ -4,12 +4,15 @@ This project is a web based shopping system for an existing shop. The project ob
 SCREENSHOTS
 
 NORMAL USER LOGIN
+
 ![183753265-de9e560e-6fc2-4f7a-8da6-a73d5a26e3fb](https://github.com/Sanket689/OnlineShoppingSystem/assets/123076146/b5c1d904-8fba-4f87-96b4-1ede530378c5)
 
 ADMIN LOGIN
+
 ![183754597-7c11de3d-1375-4721-a8d8-002e044c9c62](https://github.com/Sanket689/OnlineShoppingSystem/assets/123076146/dfaea0df-4c12-418f-a42e-6f6023edb9e3)
 
 REGISTRATION
+
 ![183755006-03e45413-2b7d-4ba0-8372-acc9f9c40d8a](https://github.com/Sanket689/OnlineShoppingSystem/assets/123076146/ebeb9ce7-db0f-4e26-98e5-f98a35090221)
 
 HOME
